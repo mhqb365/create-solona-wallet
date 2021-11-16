@@ -24,3 +24,6 @@ node create 100
 ```
 
 Ví sẽ được lưu dạng JSON trong folder wallets
+
+# Donate:
+- TLA1pR3nNXgxuvn47dLYP6shhK88GAmhqb (TRX/BTT/SUN)
